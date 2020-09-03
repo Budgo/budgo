@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on pretty much nothing
+- 🌱 I’m currently learning things I already know
+- 👯 I’m looking to collaborate on literally anything
+- 🤔 I’m looking for help with Unreal Engine
+- 💬 Ask me about Python or League of Legends
+- 📫 How to reach me: @Bud#4350 on Discord
+- 😄 Pronouns: lmao no
+- ⚡ Fun fact: I once punched a window when I was 3.
 
 <!--
 **Budgo/budgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
